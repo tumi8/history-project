@@ -1,0 +1,21 @@
+[submodule "ipfix-wrt"]
+	path = ipfix-wrt
+	url = git@github.com:constcast/ipfix-wrt.git
+[submodule "vermont"]
+	path = vermont
+	url = git@github.com:constcast/vermont.git
+[submodule "vmanager"]
+	path = vmanager
+	url = git@github.com:constcast/vmanager.git
+[submodule "npag"]
+	path = npag
+	url = git@github.com:constcast/npag.git
+[submodule "nasty"]
+	path = nasty
+	url = git@github.com:constcast/nasty.git
+[submodule "topas"]
+	path = topas
+	url = git@github.com:constcast/topas.git
+[submodule "netconf"]
+	path = netconf
+	url = git@github.com:constcast/netconf.git
